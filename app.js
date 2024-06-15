@@ -47,7 +47,7 @@ const flowSaludo = addKeyword([
     .addAnswer('🙌 Hola bienvenido a *Casa Kapikua*' ,{delay: 1000,})
     .addAnswer(
         [
-            'Soy Daisy Bot de Casa Kapikua y quiero darte una cálida bienvenida.',
+            'Soy 🤖 *Daisy Bot de Casa Kapikua*. Aunque este mensaje es automático, no te preocupes, estaremos contigo en poco tiempo. Mientras tanto, veamos si puedo ayudarte a resolver tu consulta.',
             ' ',
             '💙 Somos un destino espectacular ubicado cerca de Santa Marta, estamos aquí para hacer que tu celebración sea realmente única.',
             'Nos encantaría saber más sobre tu evento. ¿Podrías ayudarnos contestando algunas preguntas Así podemos ayudarte a hacerlo especial 🎉😊',
