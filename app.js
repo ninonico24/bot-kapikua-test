@@ -368,7 +368,7 @@ const flowWeddingPlanner = addKeyword([
     'fechas libres','fecha libre', 'feca libres', 'fechas libre', 'fechas libre'
   ])
 .addAnswer('Puedes revisar la disponibilidad de la casa en el siguiente enlace:', {delay: 1000,})
-.addAnswer('📄 👉 https://kapikua.com.co/your-booking-detail/?task=search' ,{delay: 1000,})
+.addAnswer('📄 👉 https://kapikua.com.co/your-booking/' ,{delay: 1000,})
 .addAnswer(
     [ 
         '👇 Responde con la palabra escrita de tu preferencia 👇 ',
