@@ -128,7 +128,7 @@ const flowSaludo = addKeyword([
         'precios casa', 'precio del alquiler', 'precios del alquiler'
       ])
       .addAnswer('🏠 Puedes consultar los precios en el siguiente PDF:' ,{delay: 1000,})
-      .addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2024/11/PORTAFOLIO-OFICIAL-KAPIKUA-UPD.pdf' ,{delay: 1000,})
+      .addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2025/01/PORTAFOLIO-OFICIAL-KAPIKUA-2025-2026.pdf' ,{delay: 1000,})
       .addAnswer(
         [ 
             '👇 Responde con la palabra escrita de tu preferencia 👇',
@@ -159,7 +159,7 @@ const flowSaludo = addKeyword([
   ])
 
   .addAnswer('🏠 Puedes consultar toda la información de la casa en el siguiente PDF:' ,{delay: 1000,})
-  .addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2024/11/PORTAFOLIO-OFICIAL-KAPIKUA-UPD.pdf' ,{delay: 1000,})
+  .addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2025/01/PORTAFOLIO-OFICIAL-KAPIKUA-2025-2026.pdf' ,{delay: 1000,})
   .addAnswer(
     [ 
         '👇 Responde con la palabra escrita de tu preferencia 👇 ',
@@ -397,7 +397,7 @@ const flowWeddingInfo = addKeyword([
 ])
 
 .addAnswer('🏠 Puedes consultar toda la información de la casa en el siguiente PDF:' ,{delay: 1000,})
-.addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2024/11/PORTAFOLIO-OFICIAL-KAPIKUA-UPD.pdf' ,{delay: 1000,})
+.addAnswer('📄 👉 https://kapikua.com.co/wp-content/uploads/2025/01/PORTAFOLIO-OFICIAL-KAPIKUA-2025-2026.pdf' ,{delay: 1000,})
 .addAnswer(
   [ 
       '👇 Responde con la palabra escrita de tu preferencia 👇 ',
